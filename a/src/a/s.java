@@ -5,5 +5,7 @@ private void sysout() {
 	// TODO Auto-generated method stub
 	int i =0;
 	
+	int iii;
+	
 }
 }
